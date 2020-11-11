@@ -1,5 +1,5 @@
 # Programmers
 
-Coding test solutions for www.programmers.co.kr
+Coding test solutions for https://programmers.co.kr/learn/challenges
 
 Will be written in Korean
